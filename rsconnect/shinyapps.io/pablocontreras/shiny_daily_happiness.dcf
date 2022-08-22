@@ -1,0 +1,13 @@
+name: shiny_daily_happiness
+title: shiny_daily_happiness
+username:
+account: pablocontreras
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6735453
+bundleId: 6184943
+url: https://pablocontreras.shinyapps.io/shiny_daily_happiness/
+when: 1660073313.38301
+lastSyncTime: 1660073313.38302
+asMultiple: FALSE
+asStatic: FALSE
